@@ -1,9 +1,10 @@
-## Olá, eu sou Mayara Abruceze
+## Olá, eu sou Mayara Abruceze 👩‍💻
 
-- 🔭 Atualmente trabalho com projetos pessoais front-end
-- 🌱 Estudo UX e UI design
-- 📫 Contate-me no email: mayaraabruceze@hotmail.com
-- 😄 Pronomes: ela/dela 
+ Formada em Ciência da Computação e estudante de ADS.
+ 
+ Busco novos desafios e possuo vontade constante de aprender, contribuir e vencer.
+ 
+ Ter paixão pelo que se faz é algo que me motiva todos os dias.
 
 <div align="center">
   <a href="https://github.com/MayaraAbruceze">
